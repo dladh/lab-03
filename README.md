@@ -2,16 +2,16 @@
 
 ## Student Details
 
-- **Full Name:** `<Enter name>`
-- **CCID:** `<Enter ccid>`
+- **Full Name:** `Deepali Ladhar`
+- **CCID:** `dladhar`
 
 ## References and Resources
-
+Used https://developer.android.com/courses/android-basics-compose/course?hl=en as a learning reference
 List any resources used here, or simply put `N/A` if not applicable.
 
 ## Verbal Collaboration
 
 | Student Name | CCID      |
 | ------------ | --------- |
-| `student`    | `student` |
-| `<Add more>` | `<CCID>`  |
+| `N/A`    | `N/A` |
+
